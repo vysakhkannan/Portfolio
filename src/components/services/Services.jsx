@@ -16,101 +16,40 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
+              <p>Web development is the work involved in developing a website for the Internet or an intranet. it's my passion. </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
+              <p>Clean and elegant frontend development using Reactjs. </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
+              <p>Secured Backend development using Python Django.</p>
             </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
-            </li>
-            
           </ul>          
         </article>
         {/* WEB DEVELOPMENT */}
         <article className="service">
           <div className="service__head">
-            <h3>Web Development </h3>
+            <h3>Hosting </h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
+              <p>Web hosting services work by maintaining stable and secure storage spaces. </p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+              <p>Experience in Hosting platform like AWS</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
-            </li>
-
-            
+              <p>Experience in Hosting platform like Heroku </p>
+            </li>  
           </ul>          
         </article>
-        {/* WEB DEVELOPMENT */}
-        <article className="service">
-          <div className="service__head">
-            <h3>Web Development </h3>
-          </div>
-
-          <ul className="service__list">
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. </p>
-            </li>
-          </ul>          
-        </article>
-        {/* WEB DEVELOPMENT */}
-
+    
       </div>
     </section>
   )
